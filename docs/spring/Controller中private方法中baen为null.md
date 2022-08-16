@@ -1,0 +1,1 @@
+# Controller中private方法中baen为null
